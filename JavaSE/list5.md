@@ -5,10 +5,10 @@ Chapter 4 集合
 字符串初始化后，其值不能改变 immutable
 
 String 的重要(成员)方法
-**charAt**  
-   - char|charAt(int index) 
-   - 返回指定索引处的 char 值。
-**concact**  concatenate[kɒn'kætɪneɪt]
+.**charAt**  
+    - char|charAt(int index) 
+    - 返回指定索引处的 char 值。
+.**concact**  concatenate[kɒn'kætɪneɪt]
      - String |concat(String str) 
      - 将指定字符串连接到此字符串的结尾。
 **contains** 
