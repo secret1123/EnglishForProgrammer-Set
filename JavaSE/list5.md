@@ -6,14 +6,14 @@ Chapter 4 集合
 
 String 的重要(成员)方法
 **charAt**  
-    char|charAt(int index) 
-    返回指定索引处的 char 值。
+   - char|charAt(int index) 
+   - 返回指定索引处的 char 值。
 **concact**  concatenate[kɒn'kætɪneɪt]
-    String |concat(String str) 
-    将指定字符串连接到此字符串的结尾。
+     - String |concat(String str) 
+     - 将指定字符串连接到此字符串的结尾。
 **contains** 
-    boolean|contains(CharSequence s) 
-    当且仅当此字符串包含指定的 char 值序列时，返回 true。
+     - boolean|contains(CharSequence s) 
+     - 当且仅当此字符串包含指定的 char 值序列时，返回 true。
 **endsWith**
     boolean|endsWith(String suffix) 
     测试此字符串是否以指定的后缀结束。
