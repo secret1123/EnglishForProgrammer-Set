@@ -70,7 +70,7 @@ String 的重要(成员)方法
   -     int	|length() 
   -    返回此字符串的长度。
 
-**matches** 
+**matches** //匹配
   -     boolean	|matches(String regex) 
   -    告知此字符串是否匹配给定的正则表达式。
 
@@ -88,7 +88,7 @@ String 的重要(成员)方法
  -     String	|replaceFirst(String regex, String replacement) 
  -    使用给定的 replacement 替换此字符串匹配给定的正则表达式的第一个子字符串。
 
-**split** 
+**split** //分离，分裂
  -     String[] |split(String regex) 
  -    根据给定正则表达式的匹配拆分此字符串。
  -     String[] |split(String regex, int limit) 
