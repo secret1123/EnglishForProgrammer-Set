@@ -3,6 +3,8 @@ Chapter 4 集合
 
 字符串 java.lang.String
 字符串初始化后，其值不能改变 immutable
+string pool 字符串池，初始值在池内被分配，再改变其值后，当前值还存在，
+所以说不能改变，但可以重新赋值。
 
 String 的重要(成员)方法
 
