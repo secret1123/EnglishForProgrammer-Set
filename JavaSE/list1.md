@@ -8,30 +8,29 @@
 |Java|/java/|Java 语言|-|
 |SE|||`abbr` Standard Edition|
 |API|||`abbr` Application Programming Interface|
-|Effective||||
+|Effective|[ɪ'fektɪv]|有效的||
 |nGL|||`abbr` nth Generation of Language|
 |LLL|||`abbr` Low Level Language|
 |HLL|||`abbr` High Level Language|
 |SUN|||SUN Microsystems|
-|Green Project||||
-|publish||||
-|enterprise||||
-|micro||||
-|Android||||
-|iOs||||
-|write||||
-|once||||
-|run||||
-|anywhere||||
-|application||||
+|Green Project||绿色工程||
+|publish|['pʌblɪk]|公共的||
+|enterprise|['entəpraɪz]|企业||
+|micro|['maɪkrəʊ]|微||
+|Android|['ændrɒɪd]|安卓操作系统||
+|iOs|||IOS iphone操作系统（iphone operation system)|
+|write|[raɪt]|写,写入||
+|once|[wʌns]|一次，一回||
+|run|[rʌn]|运行||
+|application|[ˌæplɪ'keɪʃ(ə)n]|应用程序||
 |-let|||`suffix`|
-|applet||||
+|applet|['æplɪt]|小应用程序||
 |JDK|||`abbr` Java Development Kit|
 |JRE|||`abbr` Java Run Environment|
-|JAVA_HOME||||
-|your||||
-|path||||
-|CLASSPATH||||
+|JAVA_HOME||java主目录||
+|your|[jɔː; jʊə]|你的，你们的||
+|path|[pɑːθ]|路径||
+|CLASSPATH|||类路径（一个环境变量）|
 |lib|[lib]|||
 |jar|[dʒɑː]||jump address register|跳越位址暂存器
 |tool|[tuːl]|n. 工具，用具||
