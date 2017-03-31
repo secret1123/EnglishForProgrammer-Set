@@ -6,8 +6,8 @@
 |---|---|---|---|
 |intro|||`abbr` introduce|
 |Java|/java/|Java 语言|-|
-|SE|||`abbr` Standard Edition|
-|API|||`abbr` Application Programming Interface|
+|SE||标准版|`abbr` Standard Edition|
+|API||应用程序设计界面|`abbr` Application Programming Interface|
 |Effective|[ɪ'fektɪv]|有效的||
 |nGL|||`abbr` nth Generation of Language|
 |LLL|||`abbr` Low Level Language|
