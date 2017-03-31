@@ -149,8 +149,27 @@ String 的重要(成员)方法
  -    返回 Object 参数的字符串表示形式。
 
 字符串缓冲区 java.lang.StringBuffer
-append 
-delete 
-insert 
-reverse 
-setCharAt
+
+**append**
+   -      StringBuffer	append(Object obj) 
+   -    追加 Object 参数的字符串表示形式。
+   -     StringBuffer	append(String str) 
+   -    将指定的字符串追加到此字符序列。
+   -     StringBuffer	append(StringBuffer sb) 
+   -    将指定的 StringBuffer 追加到此序列中。
+
+**delete**
+   -      StringBuffer	|delete(int start, int end) 
+   -    移除此序列的子字符串中的字符。
+
+**insert** 
+   -     StringBuffer	|insert(int offset, String str) 
+   -    将字符串插入此字符序列中。
+
+**reverse** 
+   -     StringBuffer	|reverse() 
+   -    将此字符序列用其反转形式取代。
+
+**setCharAt**
+   -     void	|setCharAt(int index, char ch) 
+   -    将给定索引处的字符设置为 ch。
