@@ -11,17 +11,17 @@
 |type|[taɪp]|类型||
 |field|[fiːld]|域||
 |method|['meθəd]|方法||
-|formal|['fɔːm(ə)l]|||
-|parameter||||
-|actual||||
-|constructor||||
-|inheritance||||
-|sub||||
-|super||||
-|polymorphism||||
-|overload||||
-|override||||
-|overwrite||||
+|formal|['fɔːm(ə)l]|形式化||
+|parameter|[pə'ræmɪtə]|参数||
+|actual|['æktʃʊəl; -tjʊəl]|实际||
+|constructor|[kənˈstrʌktə(r)]|构造器||
+|inheritance|[ɪn'herɪt(ə)ns]|继承||
+|sub|[sʌb]|子||
+|super|['suːpə; 'sjuː-]||superclass 超类，父类|
+|polymorphism|['pɒlɪ'mɔːfɪz(ə)m]|多态性||
+|overload|[əʊvə'ləʊd]|重载||
+|override|[əʊvə'raɪd]|覆盖||
+|overwrite|[əʊvə'raɪt]|重写||
 |||||
 |||||
 |||||
